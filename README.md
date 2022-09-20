@@ -12,4 +12,4 @@ A web application used to tranfer virtual money between multiple users and also 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
 # website link
-[click here](https://himanshuchaurasiya1234.github.io/sparktask1.github.io/)
+[click here to open](https://himanshuchaurasiya1234.github.io/sparktask1.github.io/)
